@@ -21,7 +21,7 @@ Runs entirely in the command-line interface (CLI)
 
 🚀 Getting Started
 Clone the repo, install any necessary dependencies, and run the script to start playing:
-git clone https://github.com/yourusername/terminal-shooter.git
+git clone https://github.com/afzalkhan-0508/terminal-shooter.git
 cd terminal-shooter
 python shooter.py
 📚 Concepts Explored
@@ -43,4 +43,5 @@ Difficulty levels or enemy types
 High score persistence
 
 Multiplayer or AI targets
+
 
